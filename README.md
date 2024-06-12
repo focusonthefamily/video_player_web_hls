@@ -1,6 +1,8 @@
 # FOTF Fork
 When PR https://github.com/balvinderz/video_player_web_hls/pull/61 gets merged, and we can use that in the AIO Project, this fork can be deleted.
 
+Firefox is trying to play the video natively and it fails, the code I added was to fallback to the hlsjs implementation if the native player fails.
+
 # video_player_web_hls
 [![Version](https://img.shields.io/pub/v/video_player_web_hls.svg)](https://pub.dev/packages/video_player_web_hls)
 
