@@ -1,3 +1,6 @@
+#FOTF Fork
+When PR balvinderz/video_player_web_hls#61 https://github.com/balvinderz/video_player_web_hls/pull/61 gets merged, and we can use that in the AIO Project, this fork can be deleted.
+
 # video_player_web_hls
 [![Version](https://img.shields.io/pub/v/video_player_web_hls.svg)](https://pub.dev/packages/video_player_web_hls)
 
